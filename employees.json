@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Emin Hüseynov",
+      "position": "Developer",
+      "salary": 3000
+    },
+    {
+      "id": 2,
+      "name": "Gülər Əliyeva",
+      "position": "Designer",
+      "salary": 2500
+    },
+    {
+      "id": 3,
+      "name": "Rəşad Məmmədov",
+      "position": "Manager",
+      "salary": 4000
+    }
+  ]
